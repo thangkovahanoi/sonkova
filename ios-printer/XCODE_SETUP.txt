@@ -1,0 +1,2 @@
+Mở Xcode > New Project > iOS App > SwiftUI > Swift, sau đó thêm các file trong KhoXprinter/.
+Thêm Xprinter iOS SDK chính thức theo tài liệu SDK của Xprinter.
